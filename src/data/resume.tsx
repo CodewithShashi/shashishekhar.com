@@ -4,7 +4,7 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 export const DATA = {
   name: "Shashi Shekhar Pandey",
   initials: "DV",
-  url: "https://dillion.io",
+  url: "https://shashishekharcom.vercel.app/",
   location: "Noida, India",
   locationLink: "",
   description:
@@ -113,7 +113,6 @@ export const DATA = {
 
     {
       school: "Kurukshetra University",
-      href: "https://kuk.ac.in/",
       degree: "Bachelor's of Technology in Computer Science (B.Tech)",
       logoUrl: "/Kuk.jpg",
       start: "2019",
@@ -128,7 +127,6 @@ export const DATA = {
     },
     {
       school: "Harihar Singh Academy",
-      href: "https://www.hsacademyvns.edu.in/",
       degree: "Secondary Education",
       logoUrl: "/HSA.jpg",
       start: "2016",
