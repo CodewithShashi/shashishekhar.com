@@ -4,30 +4,39 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 export const DATA = {
   name: "Shashi Shekhar Pandey",
   initials: "DV",
-  url: "https://dillion.io",
+  url: "https://shashishekharcom.vercel.app/",
   location: "Noida, India",
   locationLink: "",
   description:
-    "I'm software developer from India with expertise in UI development Javascript, React, CMS and UI/UX technologies for user interface development. staying ahead of technological trends by constantly investigating new tools.",
+    "I'm software Engineer from India with expertise in UI development and UI/UX technologies for user interface development. staying ahead of technological trends by constantly investigating new tools.",
   summary:
-    "Frontend developer, crafting responsive, user-centric websites. With years of experience, I deliver high-performance, cross-browser compatible solutions. Passionate about enhancing user experiences through innovative design and performance optimization, while staying updated with modern web trends.",
+    "UI Developer, crafting responsive, user-centric websites. With 3 years of experience, I deliver high-performance, cross-browser compatible solutions. Passionate about enhancing user experiences through innovative design and performance optimization, while staying updated with modern web trends.",
   avatarUrl: "/me.png",
   skills: [
-    "React",
     "WordPress",
+    "JIRA Software",
+    "web content management",
+    "Landing Page",
     "Shopify",
     "Bootstrap",
-    "Node.js",
+    "Wireframing",
+    "Prototyping",
+    "User Research",
+    "Divi Builder",
+    "Elementor",
+    "User Flow",
+    "UI/UX Design",
     "JavaScript",
-    "MongoDB",
+    "CMS",
     "Figma",
     "HTML5",
     "CSS3",
     "Gohighlevel",
-    "UI/UX",
+    "Wix",
     "UI Development",
     "Netlify",
     "Github",
+    "Vercel",
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
@@ -83,6 +92,7 @@ export const DATA = {
       description:
         "GlobalLogic is a dynamic organization where I contribute as a full-cycle developer on various projects, leveraging my expertise in front-end technologies to create engaging and user-friendly designs that enhance project functionality and user experience.",
     },
+    
     {
       company: "Dream Reflection Media Pvt Ltd.",
       badges: [],
@@ -120,9 +130,9 @@ export const DATA = {
       end: "2023",
     },
     {
-      school: "St Xavier's High School",
+      school: "NIOS",
       degree: "Higher Education",
-      logoUrl: "/St.jpeg",
+      logoUrl: "/NIOS.jpg",
       start: "2017",
       end: "2019",
     },
@@ -138,6 +148,69 @@ export const DATA = {
   ],
   projects: [
     {
+      title: "Globallogic Corporate",
+      href: "https://www.globallogic.com/",
+      dates: "July 2024 - November 2025",
+      active: false,
+      description:
+        "Designed and developed the User interface for Globallogic Corporate and Regional sites, ensuring a modern, responsive, and user-friendly interface. Focused on UX/UI principles, seamless navigation, and interactive elements for an engaging experience.",
+      technologies: [
+        "Wordpress",
+        "UI/UX",
+        "JIRA Software",
+        "Figma",
+        "Website Development",
+        "Html",
+        "Css",
+        "Landing Page",
+        "web content management",
+        "Bootstrap",
+        "Javascript",
+        "FileZilla",
+        "UI/UX",
+
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://www.globallogic.com/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/GL.png",
+      video:"",
+    },
+
+    {
+      title: "Method",
+      href: "https://www.method.com/",
+      dates: "february 2025 - october 2025",
+      active: false,
+      description:
+        "Designed the User interface for Method site, ensuring a modern, responsive, and user-friendly interface. Focused on UX/UI principles, seamless navigation, and interactive elements for an engaging experience.",
+      technologies: [
+        "Html",
+        "Css",
+        "Figma",
+        "Wordpress",
+        "Bootstrap",
+        "Javascript",
+        "FileZilla",
+        "UI/UX",
+        "JIRA Software",
+
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://www.method.com/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/method.com.png",
+      video:"",
+    },
+    {
       title: "Hitachi Digital Services",
       href: "https://hitachids.com/careers/",
       dates: "June 2024 - Janaury2025",
@@ -148,6 +221,7 @@ export const DATA = {
         "Html",
         "Css",
         "Figma",
+        "JIRA Software",
         "Wordpress",
         "Bootstrap",
         "Javascript",
@@ -165,6 +239,7 @@ export const DATA = {
       image: "/HDS.png",
       video:"",
     },
+    
     {
       title: "Vaamveda Healthcare",
       href: "https://vaamveda.com/",
