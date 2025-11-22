@@ -92,7 +92,6 @@ export const DATA = {
       description:
         "GlobalLogic is a dynamic organization where I contribute as a full-cycle developer on various projects, leveraging my expertise in front-end technologies to create engaging and user-friendly designs that enhance project functionality and user experience.",
     },
-    
     {
       company: "Dream Reflection Media Pvt Ltd.",
       badges: [],
@@ -207,7 +206,7 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "/method.com.png",
+      image: "/Method.com.png",
       video:"",
     },
     {
@@ -239,7 +238,6 @@ export const DATA = {
       image: "/HDS.png",
       video:"",
     },
-    
     {
       title: "Vaamveda Healthcare",
       href: "https://vaamveda.com/",
