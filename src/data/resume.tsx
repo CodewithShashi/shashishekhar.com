@@ -11,7 +11,7 @@ export const DATA = {
     "I'm software Engineer from India with expertise in UI development and UI/UX technologies for user interface development. staying ahead of technological trends by constantly investigating new tools.",
   summary:
     "UI Developer, crafting responsive, user-centric websites. With 3 years of experience, I deliver high-performance, cross-browser compatible solutions. Passionate about enhancing user experiences through innovative design and performance optimization, while staying updated with modern web trends.",
-  avatarUrl: "/me.png",
+  avatarUrl: "/Shashi.png",
   skills: [
     "WordPress",
     "JIRA Software",
