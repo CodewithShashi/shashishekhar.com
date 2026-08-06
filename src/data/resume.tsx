@@ -214,6 +214,37 @@ export const DATA = {
     },
 
     {
+      title: "EverFresh Arena AI – AI Agents Marketplace",
+      href: "https://everfresh-ai.vercel.app/",
+      dates: "July - August 2026",
+      active: false,
+      description:
+        "Designed and developed a modern, responsive website for EverFresh Arena AI, an AI-powered platform offering specialized AI agents for content creation, marketing, sales, customer support, and business automation. Focused on creating an intuitive user experience with clear information architecture, engaging animations, conversion-driven landing pages, and a scalable design system to showcase AI solutions effectively.",
+      technologies: [
+        "Html",
+        "Css",
+        "Figma",
+        "React",
+        "Radix UI",
+        "Loveable",
+        "Javascript",
+        "Framer Motion",
+        "Tailwind CSS",
+        "Vercel",
+
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://everfresh-ai.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/Everfresh AI.png",
+      video:"",
+    },
+
+    {
       title: "Method",
       href: "https://www.method.com/",
       dates: "february 2025 - october 2025",
