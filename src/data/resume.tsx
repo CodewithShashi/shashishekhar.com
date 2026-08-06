@@ -183,32 +183,33 @@ export const DATA = {
     },
 
     {
-      title: "Method",
-      href: "https://www.method.com/",
-      dates: "february 2025 - october 2025",
+      title: "BDA OS – AI-Powered Business Website",
+      href: "https://bdaos-20fc3c48.vercel.app/",
+      dates: "July 2026",
       active: false,
       description:
-        "Designed the User interface for Method site, ensuring a modern, responsive, and user-friendly interface. Focused on UX/UI principles, seamless navigation, and interactive elements for an engaging experience.",
+        "BDA OS is a modern corporate website designed to showcase digital transformation, AI solutions, and enterprise services. I designed and developed a responsive, high-performance experience with clean UI, intuitive navigation, engaging animations, and SEO-friendly architecture using AI-assisted workflows.",
       technologies: [
         "Html",
         "Css",
         "Figma",
-        "Wordpress",
+        "React",
         "Bootstrap",
+        "Loveable",
         "Javascript",
-        "FileZilla",
-        "UI/UX",
-        "JIRA Software",
+        "Framer Motion",
+        "Tailwind CSS",
+        "Vercel",
 
       ],
       links: [
         {
           type: "Website",
-          href: "https://www.method.com/",
+          href: "https://bdaos-20fc3c48.vercel.app/",
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "/Method.com.png",
+      image: "/BDA OS.png",
       video:"",
     },
 
