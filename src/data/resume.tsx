@@ -20,7 +20,7 @@ export const DATA = {
     "Vibe Coding",
     "Landing Page Design",
     "Claude AI",
-    "loveable AI",
+    "Loveable AI",
     "Google Stitch",
     "WordPress",
     "Bootstrap",
