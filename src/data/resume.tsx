@@ -32,7 +32,7 @@ export const DATA = {
     "Elementor",
     "UI/UX Design",
     "JavaScript",
-    "Web Content Managemant",
+    "Web Content Management",
     "CMS",
     "Gohighlevel",
     "Wix",
