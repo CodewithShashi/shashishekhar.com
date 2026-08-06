@@ -8,7 +8,7 @@ export const DATA = {
   location: "Noida, India",
   locationLink: "",
   description:
-    "I'm a Software Engineer from India with expertise in Web, UI Development, and UI/UX Design, creating intuitive, user-centered digital experiences. Passionate about innovation, I stay ahead of technological trends by continuously exploring emerging tools, AI technologies, and modern development practices to build smarter, scalable, and impactful digital solutions.",
+    "I'm a Software Engineer from India specializing in Web Design, UI/UX, and AI-powered development. Passionate about creating intuitive digital experiences, I continuously explore emerging technologies and modern tools to build innovative, scalable, and user-focused solutions.",
   summary:
     "UI Developer, crafting responsive, user-centric websites. With 3 years of experience, I deliver high-performance, cross-browser compatible solutions. Passionate about enhancing user experiences through innovative design and performance optimization, while staying updated with modern web trends.",
   avatarUrl: "/Profile.png",
