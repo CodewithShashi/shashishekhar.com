@@ -225,7 +225,7 @@ export const DATA = {
         "Css",
         "Figma",
         "React",
-        "Bootstrap",
+        "Radix UI",
         "Loveable",
         "Javascript",
         "Framer Motion",
