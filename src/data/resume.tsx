@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "I'm a Software Engineer from India specializing in Web Design, UI/UX, and AI-powered development. Passionate about creating intuitive digital experiences, I continuously explore emerging technologies and modern tools to build innovative, scalable, and user-focused solutions.",
   summary:
-    "UI Developer, crafting responsive, user-centric websites. With 3 years of experience, I deliver high-performance, cross-browser compatible solutions. Passionate about enhancing user experiences through innovative design and performance optimization, while staying updated with modern web trends.",
+    "Web & UI/UX Designer and AI Developer with 3+ years of experience creating responsive, user-centric websites, SaaS platforms, and digital products. Skilled in Figma, design systems, front-end development, and AI-powered workflows. Passionate about building intuitive, high-performance experiences while leveraging modern technologies and AI to solve real-world problems.",
   avatarUrl: "/Profile.png",
   skills: [
     "JIRA Software",
