@@ -211,6 +211,36 @@ export const DATA = {
       image: "/Method.com.png",
       video:"",
     },
+
+    {
+      title: "Method",
+      href: "https://www.method.com/",
+      dates: "february 2025 - october 2025",
+      active: false,
+      description:
+        "Designed the User interface for Method site, ensuring a modern, responsive, and user-friendly interface. Focused on UX/UI principles, seamless navigation, and interactive elements for an engaging experience.",
+      technologies: [
+        "Html",
+        "Css",
+        "Figma",
+        "Wordpress",
+        "Bootstrap",
+        "Javascript",
+        "FileZilla",
+        "UI/UX",
+        "JIRA Software",
+
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://www.method.com/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/Method.com.png",
+      video:"",
+    },
     {
       title: "Hitachi Digital Services",
       href: "https://hitachids.com/careers/",
