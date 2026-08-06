@@ -183,37 +183,6 @@ export const DATA = {
     },
 
     {
-      title: "BDA OS – AI-Powered Business Website",
-      href: "https://bdaos-20fc3c48.vercel.app/",
-      dates: "July 2026",
-      active: false,
-      description:
-        "BDA OS is a modern corporate website designed to showcase digital transformation, AI solutions, and enterprise services. I designed and developed a responsive, high-performance experience with clean UI, intuitive navigation, engaging animations, and SEO-friendly architecture using AI-assisted workflows.",
-      technologies: [
-        "Html",
-        "Css",
-        "Figma",
-        "React",
-        "Bootstrap",
-        "Loveable",
-        "Javascript",
-        "Framer Motion",
-        "Tailwind CSS",
-        "Vercel",
-
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://bdaos-20fc3c48.vercel.app/",
-          icon: <Icons.globe className="size-3" />,
-        },
-      ],
-      image: "/BDA OS.png",
-      video:"",
-    },
-
-    {
       title: "EverFresh Arena AI – AI Agents Marketplace",
       href: "https://everfresh-ai.vercel.app/",
       dates: "July - August 2026",
@@ -241,6 +210,37 @@ export const DATA = {
         },
       ],
       image: "/Everfresh AI.png",
+      video:"",
+    },
+
+    {
+      title: "BDA OS – AI-Powered Business Website",
+      href: "https://bdaos-20fc3c48.vercel.app/",
+      dates: "July 2026",
+      active: false,
+      description:
+        "BDA OS is a modern corporate website designed to showcase digital transformation, AI solutions, and enterprise services. I designed and developed a responsive, high-performance experience with clean UI, intuitive navigation, engaging animations, and SEO-friendly architecture using AI-assisted workflows.",
+      technologies: [
+        "Html",
+        "Css",
+        "Figma",
+        "React",
+        "Bootstrap",
+        "Loveable",
+        "Javascript",
+        "Framer Motion",
+        "Tailwind CSS",
+        "Vercel",
+
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://bdaos-20fc3c48.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/BDA OS.png",
       video:"",
     },
 
