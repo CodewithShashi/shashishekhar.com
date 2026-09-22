@@ -89,7 +89,7 @@ export const DATA = {
   badges: [],
   location: "Noida, India",
   title: "UI Engineer",
-  logoUrl: "/bookswagon-logo.jpg",
+  logoUrl: "/BW.jpg",
   start: "September 2026",
   end: "Present",
   description:
