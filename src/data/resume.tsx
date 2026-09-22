@@ -101,10 +101,10 @@ export const DATA = {
       href: "https://globallogic.com/",
       badges: [],
       location: "Remote",
-      title: "Associate Software Engineer",
+      title: "Software Engineer",
       logoUrl: "/GLlogo.jpg",
       start: "June 2024",
-      end: "Present",
+      end: "January 2026",
       description:
         "GlobalLogic is a dynamic organization where I contribute as a full-cycle developer on various projects, leveraging my expertise in front-end technologies to create engaging and user-friendly designs that enhance project functionality and user experience.",
     },
