@@ -113,7 +113,7 @@ export const DATA = {
       badges: [],
       href: "https://dreamreflectionmedia.com/",
       location: "Noida, India",
-      title: "UI Developer",
+      title: "Web Designer & Developer",
       logoUrl: "/DRM.png",
       start: "May 2023",
       end: "April 2024",
