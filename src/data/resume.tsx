@@ -84,6 +84,19 @@ export const DATA = {
   work: [
 
     {
+  company: "Bookswagon",
+  href: "https://www.bookswagon.com/",
+  badges: [],
+  location: "Noida, India",
+  title: "UI Engineer",
+  logoUrl: "/bookswagon-logo.jpg",
+  start: "September 2026",
+  end: "Present",
+  description:
+    "Working as a UI Engineer, focusing on UI/UX design, responsive web interfaces, design systems, and frontend implementation. Contributing to website redesigns and improving digital experiences through user-centered design, visual consistency, and modern web technologies.",
+   },
+
+    {
       company: "GlobalLogic - A Hitachi Group Company",
       href: "https://globallogic.com/",
       badges: [],
