@@ -104,7 +104,7 @@ export const DATA = {
       badges: [],
       location: "Freelancing (Remote)",
       title: "Web Designer & Developer",
-      logoUrl: "/BDA OS.PNG",
+      logoUrl: "/BDA_Tech.png",
       start: "April 2026",
       end: "August 2026",
       description:
