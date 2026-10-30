@@ -25,6 +25,7 @@ export const DATA = {
     "WordPress",
     "Bootstrap",
     "Figma",
+    "Web Design",
     "Design System",
     "Wireframing",
     "Prototyping",
@@ -38,6 +39,7 @@ export const DATA = {
     "Wix",
     "UI Development",
     "Netlify",
+    "Ecommerce",
     "Github",
     "Vercel",
   ],
@@ -95,6 +97,19 @@ export const DATA = {
   description:
     "Working as a UI Engineer, focusing on UI/UX design, responsive web interfaces, design systems, and frontend implementation. Contributing to website redesigns and improving digital experiences through user-centered design, visual consistency, and modern web technologies.",
    },
+
+    {
+      company: "BDA Technologies Pvt Ltd,",
+      href: "https://bdatechnologies.com/",
+      badges: [],
+      location: "Freelancing (Remote)",
+      title: "Web Designer & Developer",
+      logoUrl: "/BDA OS.PNG",
+      start: "March 2026",
+      end: "August 2026",
+      description:
+        "Worked as a Freelance Website Designer and Developer at BDA Technology, delivering 2–3 client-based projects. Responsible for designing and developing responsive, user-friendly websites, translating client requirements into functional web experiences, and ensuring visually appealing designs with a focus on usability and performance.",
+    },
 
     {
       company: "GlobalLogic - A Hitachi Group Company",
