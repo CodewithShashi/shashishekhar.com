@@ -99,7 +99,7 @@ export const DATA = {
    },
 
     {
-      company: "BDA Technologies Pvt Ltd,",
+      company: "BDA Technologies Pvt Ltd",
       href: "https://bdatechnologies.com/",
       badges: [],
       location: "Freelancing (Remote)",
