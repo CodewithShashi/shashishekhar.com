@@ -20,7 +20,7 @@ export const DATA = {
     "Vibe Coding",
     "Landing Page Design",
     "Claude AI",
-    "Loveable AI",
+    "Lovable AI",
     "Google Stitch",
     "WordPress",
     "Bootstrap",
@@ -42,6 +42,7 @@ export const DATA = {
     "Ecommerce",
     "Github",
     "Vercel",
+    "AI-Powered Workflows",
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
