@@ -105,7 +105,7 @@ export const DATA = {
       location: "Freelancing (Remote)",
       title: "Web Designer & Developer",
       logoUrl: "/BDA OS.PNG",
-      start: "March 2026",
+      start: "April 2026",
       end: "August 2026",
       description:
         "Worked as a Freelance Website Designer and Developer at BDA Technology, delivering 2–3 client-based projects. Responsible for designing and developing responsive, user-friendly websites, translating client requirements into functional web experiences, and ensuring visually appealing designs with a focus on usability and performance.",
@@ -119,7 +119,7 @@ export const DATA = {
       title: "Software Engineer",
       logoUrl: "/GLlogo.jpg",
       start: "June 2024",
-      end: "January 2026",
+      end: "February 2026",
       description:
         "GlobalLogic is a dynamic organization where I contribute as a full-cycle developer on various projects, leveraging my expertise in front-end technologies to create engaging and user-friendly designs that enhance project functionality and user experience.",
     },
