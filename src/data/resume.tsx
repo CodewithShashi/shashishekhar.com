@@ -132,7 +132,7 @@ export const DATA = {
       title: "Web Designer & Developer",
       logoUrl: "/DRM.png",
       start: "May 2023",
-      end: "April 2024",
+      end: "May 2024",
       description:
         "Dream Reflection Media organization where I work as a UI Developer, contributing my expertise to various projects. I design and develop frontend interfaces using modern technologies on CMS platforms, ensuring seamless user experiences and visually appealing designs.",
     },
